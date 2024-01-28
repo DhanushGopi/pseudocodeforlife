@@ -71,3 +71,29 @@
   <li>Stops</li>
   </ol>
 </details>
+
+
+<details>
+<summary>Check the between of number are Perfect Number or Not</summary>
+ <a href="https://www.cuemath.com/numbers/perfect-numbers/">Concept</a>
+ <p>The given number should be equal to the sum of it divisors is known as Perfect number. ex: 6, 1+2+3 = 6 </p> 
+ <p>Just code template the write the documentation of the pseudo codes!</p> 
+ <ol>
+    <li>Get the "start" number and "end" number</li>
+  <li>Create a "sum" to hold the summation of the divisor</li>
+  <li>create a empty "list" to hold the founded perfect number</li>
+  <li>Create "for loop with j" from "start to end+1"</li>
+  <li>Create a another "for loop with i" from "1 to j"</li>
+  <li> "j loop" is used to generate the "numerator" and "i loop" is used to generate the "denominator or divisors"</li>
+  <li>Create a var "divisor" to perform the "j%i"</li>
+  <li>if the "divisor == 0", then i variable will get added in the "sum" and both i and j loop ends</li>
+  <li>if, "sum == j", then "j" will append in the "list" and "sum" will be made to "0" for the next "numerator or j"</li>
+  <li>else, "sum" will be made to "0" for the next "numerator or j" </li>
+  </ol>
+</details>
+<details>
+
+
+
+
+
