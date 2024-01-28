@@ -58,8 +58,8 @@
 </details>
 <details>
 <summary>Check its a Perfect Number or Not</summary>
- <a href="https://www.cuemath.com/numbers/perfect-numbers/">Concept</a>
- <a href="https://www.splashlearn.com/math-vocabulary/division/divisor">What is Divisor?</a>
+ <p><a href="https://www.cuemath.com/numbers/perfect-numbers/">Concept</a></p>
+ <p><a href="https://www.splashlearn.com/math-vocabulary/division/divisor">What is Divisor?</a></p>
  <p>The given number should be equal to the sum of it divisors is known as Perfect number. ex: 6, 1+2+3 = 6 </p> 
  <ol>
   <li>starts</li>
