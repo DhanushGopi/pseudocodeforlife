@@ -89,6 +89,8 @@
   <li>if the "divisor == 0", then i variable will get added in the "sum" and both i and j loop ends</li>
   <li>if, "sum == j", then "j" will append in the "list" and "sum" will be made to "0" for the next "numerator or j"</li>
   <li>else, "sum" will be made to "0" for the next "numerator or j" </li>
+  <li>Print the "List"</li>
+  <li>Ends</li>
   </ol>
 </details>
 <details>
