@@ -56,3 +56,18 @@
     <li>Else it will be a Prime Number</li>
   </ol>
 </details>
+<details>
+<summary>Check its a Perfect Number or Not</summary>
+ <a href="https://www.cuemath.com/numbers/perfect-numbers/">Concept</a>
+ <a href="https://www.splashlearn.com/math-vocabulary/division/divisor">What is Divisor?</a>
+ <p>The given number should be equal to the sum of it divisors is known as Perfect number. ex: 6, 1+2+3 = 6 </p> 
+ <ol>
+  <li>starts</li>
+    <li>Get the "number"</li>
+    <li>Create a "sum" var to hold the summation of the divisor</li>
+  <li>Initate a "for loop" from "1 to number"</li>
+  <li>if the "number % i == 0", then "sum" will increment by the "i" for the summation of the divisor and loops end.</li>
+  <li>if "sum = number", then its a perfect number else it is a not perfect number</li>
+  <li>Stops</li>
+  </ol>
+</details>
