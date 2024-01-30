@@ -94,6 +94,28 @@
   </ol>
 </details>
 <details>
+<summary>Swap the first and last elements in a list</summary>
+ <a href="https://dhanushgopi.github.io/">Concept</a>
+ <ol>
+    <li>Start the program</li>
+    <li>Creating a "genlist()" function to generate the list</li>
+    <li>Inside the function, create a var "listlen" to get the length of the list</li>
+    <li>A empty list "finallist" to hold the all elements</li>
+    <li>Creating a "for i loop" in the range from "1 to listen" to append the each element in the "finallist".</li>
+    <li>Inside the i loop, "listvalue" used to get the value for the list.</li>
+  <li>"append" method will be used to append in the "finallist".</li>
+  <li>outside the i loop, "finallist" will be "return and printed."</li>
+  <li>"genlist()" stop</li>
+  <li>create a "swapstart2end(list)" function and pass a formal paramter</li>
+  <li> "a" var to hold the "list[0]"starting element and "b" var to hold the "list[-1]"last element in the list</li>
+  <li>Remove the elements using the "index position" from the "list"</li>
+  <li>"insert" method is used to insert the first element and "append" method is used to appended in last</li>
+  <li>print and return the "list"</li>
+  <li>"swapstart2end()" stop</li>
+    <li>stop the program</li>
+  </ol>
+</details>
+
 
 
 
