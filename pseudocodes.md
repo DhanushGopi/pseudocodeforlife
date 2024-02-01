@@ -117,6 +117,31 @@
 </details>
 
 
+<details>
+<summary>Sorting the elements in Ascending Order using Bubble Sort</summary>
+ <a href="https://www.geeksforgeeks.org/bubble-sort/">Concept</a> 
+ <ol>
+  <li>Start the program</li>
+    <li>Creating a "genlist()" function to generate the list</li>
+    <li>Inside the function, create a var "listlen" to get the length of the list</li>
+    <li>A empty list "finallist" to hold the all elements</li>
+    <li>Creating a "for i loop" in the range from "1 to listen" to append the each element in the "finallist".</li>
+    <li>Inside the i loop, "listvalue" used to get the value for the list.</li>
+  <li>"append" method will be used to append in the "finallist".</li>
+  <li>outside the i loop, "finallist" will be "return and printed."</li>
+  <li>"genlist()" stop</li>
+    <li>Create the "bubblesort()" function and pass the formal argument as "listhere"</li>
+  <li>Inside the "bubblesort", create a var "listduplicate" and copy the entire elements from the "genlist()" function/li>
+   <li>  create a for "i loop" from "0 to len(listduplicate)" to access the starting index element in the "listduplicate".</li>
+  <li>Inside the "i loop", create an another for "j loop" from "i+1 to len(listduplicate)".</li>
+  <li>Inside the "j loop", create a if condition to check the two adjacent elements as " listduplicated[i] >= listduplicated[i]" then, need to be swap there places.</li>
+  <li>Swapping or interchanging the elements using the "temp" var.</li>
+  <li>Then, print and return the "listduplicate" outside of the both "i and j loop"</li>
+  <li>Program Stopped</li>
+ </ol>
+</details>
+
+
 
 
 
