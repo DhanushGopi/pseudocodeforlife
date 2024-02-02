@@ -4,7 +4,9 @@
  <a href="https://dhanushgopi.github.io/">Concept</a>
  <p>Just code template the write the documentation of the pseudo codes!</p> 
  <ol>
+  <li>Start the program</li>
     <li>Add as many as you want!</li>
+  <li>Stop the program</li>
   </ol>
 </details>
 <details>
@@ -139,6 +141,22 @@
   <li>Then, print and return the "listduplicate" outside of the both "i and j loop"</li>
   <li>Program Stopped</li>
  </ol>
+</details>
+
+<details>
+<summary>Falling Steps Pattern</summary>
+ <a href="https://dhanushgopi.github.io/">Concept</a>
+ <p>Just code as i wished to print the pattern</p> 
+ <ol>
+    <li>Start the program</li>
+  <li>Create function as "fallingsteps()".</li>
+  <li>Inside the function, create a var for the "pattervalue" and create a empty list as "patternholder" to hold the "pattervalue"</li>
+  <li>Create a var to get the length of the patter "patternlength".</li>
+  <li>Create a for 'i loop' from '0 to patternlength' for the increment of the pattern and append() used to add the element in the "patternholder" and 'i loop' ends</li>
+  <li>Create a for 'j loop' from '0 to patternlength' for the decrement of the pattern and pop() used to remove the last element in the 'patternholder' and j loop 
+ ends</li>
+  <li>Stop the program</li>
+  </ol>
 </details>
 
 
