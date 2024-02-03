@@ -5,7 +5,7 @@
  <p>Just code template the write the documentation of the pseudo codes!</p> 
  <ol>
   <li>Start the program</li>
-    <li>Add as many as you want!</li>
+    <li></li>
   <li>Stop the program</li>
   </ol>
 </details>
@@ -159,7 +159,29 @@
   </ol>
 </details>
 
-
+<details>
+<summary>Check Odd or Even for the given number and print with no duplication.</summary>
+ <a href="https://dhanushgopi.github.io/">Concept</a>
+ <ol>
+  <li>Start the program</li>
+    <li>Creating a "genlist()" function to generate the list</li>
+    <li>Inside the function, create a var "listlen" to get the length of the list</li>
+    <li>A empty list "finallist" to hold the all elements</li>
+    <li>Creating a "for i loop" in the range from "1 to listen" to append the each element in the "finallist".</li>
+    <li>Inside the i loop, "listvalue" used to get the value for the list.</li>
+  <li>"append" method will be used to append in the "finallist".</li>
+  <li>outside the i loop, "finallist" will be "return and printed."</li>
+  <li>"genlist()" stop</li>
+  <li>create function as "oddoreven()" and pass a formal argument as "listpassed"</li>
+  <li>Create a two new list as respective "even and odd" to hold the elements.</li>
+  <li>inside the oddoreven() function, create a for "j loop" from "0 to len(listpassed)" for access the element in the "listpassed".</li>
+  <li>inside the "j loop", create elif block to check the accessed element is already in the "even an odd list"</li>
+  <li>Inside the else, create another if else statement to check the accessed element is Odd or Even.</li>
+  <li>append method is used to added the even elements to the even list and vice versa</li>
+ <li>Print and return the Even and Odd list.</li>
+  <li>Stop the program</li>
+  </ol>
+</details>
 
 
 
