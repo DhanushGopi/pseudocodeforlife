@@ -183,6 +183,28 @@
   </ol>
 </details>
 
-
+<details>
+<summary>Rock Paper Scissor Game</summary>
+ <a href="https://realpython.com/python-rock-paper-scissors/#play-a-single-game-of-rock-paper-scissors-in-python">Concept</a> 
+ <ol>
+  <li>Start the program</li>
+   <li>import the random module to use the random methods.</li>
+<li>create a list as 'cards' and hold the rock, paper, scissor values.</li>
+<li>create two var as 'userscore and enemy score' to hold the score.</li>
+<li>Using while make it loop, if the both scores are less than 3 proceed to the loop block</li>
+<li>get the "user" value in a var and covert into lower case using "lower()" method</li>
+<li>create a var as 'Enemy' to hold the random value from the "card"</li>
+<li>If both are equal, print tie</li>
+<li>elif user = 'rock', inside if has "enemy = scissor" then, print rock won. else, scissor is won </li>
+<li>elif user = 'paper', inside if has "enemy = rock" then, print paper won. else, rock is won  </li>
+<li>elif user = 'rock', inside if has "enemy = scissor" then, print rock won. else, scissor is won  </li>
+<li>elif user = 'scissor', inside if has "enemy = paper" then, print scissor won. else, paper is won  </li>
+<li>On each elif, respective score will be incremented</li>
+<li>else, failed to give proper input</li>
+<li>Both scores will be printed</li>
+<li>If else block is used to print the winner!</li>
+  <li>Stop the program</li>
+  </ol>
+</details>
 
 
