@@ -208,3 +208,20 @@
 </details>
 
 
+<details>
+<summary>Generate List of values</summary>
+ <a href="https://dhanushgopi.github.io/">Concept</a>
+ <ol>
+  <li>Start the program</li>
+    <li>Creating a "genlist()" function to generate the list</li>
+    <li>Inside the function, create a var "listlen" to get the length of the list</li>
+    <li>A empty list "finallist" to hold the all elements</li>
+    <li>Creating a "for i loop" in the range from "1 to listen" to append the each element in the "finallist".</li>
+    <li>Inside the i loop, "listvalue" used to get the value for the list.</li>
+  <li>"append" method will be used to append in the "finallist".</li>
+  <li>outside the i loop, "finallist" will be "return and printed."</li>
+  <li>Stop the program</li>
+  </ol>
+</details>
+
+
