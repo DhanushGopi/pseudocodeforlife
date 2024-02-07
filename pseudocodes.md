@@ -230,7 +230,13 @@
  <a href="https://en.wikipedia.org/wiki/Fibonacci_sequence">Concept</a>
  <ol>
   <li>Start the program</li>
-    <li></li>
+    <li>Create a function as "fibonacciseries".</li>
+  <li>Inside the function, create a list "fiblist" to hold the Fibonacci series.</li>
+  <li>declare var as a = 0, b = 1, c = 0 and the append the a and b in "fiblist". </li>
+  <li> create a var "lenvalue" to get the int value.</li>
+  <li>Create a for "i loop" from "1 to lenvalue" to perform the fibonacci logic. </li>
+  <li>inside the i loop, exchanging the values for iteration as follows "c = a+b", "a = b", "b = c" and the append the c in "fiblist"</li>
+  <li>decalre the Return of fiblist outside of the loop.</li>
   <li>Stop the program</li>
   </ol>
 </details>
