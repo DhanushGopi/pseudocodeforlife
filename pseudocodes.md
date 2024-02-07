@@ -225,3 +225,12 @@
 </details>
 
 
+<details>
+<summary>Fibonacci Series for the Nth Number</summary>
+ <a href="https://en.wikipedia.org/wiki/Fibonacci_sequence">Concept</a>
+ <ol>
+  <li>Start the program</li>
+    <li></li>
+  <li>Stop the program</li>
+  </ol>
+</details>
